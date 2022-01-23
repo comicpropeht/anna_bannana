@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA7D93B0f4705552CdC4D875CDE5Be4e73B271c4E",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xA7D93B0f4705552CdC4D875CDE5Be4e73B271c4E",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Clean_Images2",
+  "SYMBOL": "CI2",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/clean-images2",
+  "SHOW_BACKGROUND": true
+}
